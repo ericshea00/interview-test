@@ -41,7 +41,6 @@ and work with cloud services in the future.
 6) Documentation with examples of house to use the API
 7) Feature for basic locking on messages when updating to only allow 1 user editing at a time.
 8) Fields in database model to track additional data (author, locked, last_modified, timestamp).
-9) Fields in database model to track additional data (author, locked, last_modified, timestamp).
 
 ## Concurrency
 - Methods of locking would assist with concurrency concerns. 
